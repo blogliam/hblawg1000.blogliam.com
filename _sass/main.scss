@@ -1,0 +1,20 @@
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+$bodyFont: Helvetica, sans-serif;
+$maxWidth: 900px;
+
+body {
+    background: $backgroundColor;
+    color: $bodyColor;
+    font-family: $bodyFont;
+}
+
+#content {
+    max-width: $maxWidth;
+}
+
+#content img {
+    max-width: 90%;
+    max-height: 500px;
+    margin-left: 5%;
+}
