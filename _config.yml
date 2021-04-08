@@ -1,4 +1,5 @@
+title: hblawg1000
 url: "https://hblawg1000.blogliam.com/"
-title: "hblawg1000"
-ignore:
-  - .gitignore
+author: Henry Buck
+ignore: [ .gitignore ]
+plugins: [ jekyll-feed ]
